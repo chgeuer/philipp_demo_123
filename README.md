@@ -3,4 +3,4 @@
 
 This is a demo project.
 
-Noch mehr Zeugs. Und das hier ist auf Gthub geschrieben
+Noch mehr Zeugs. Und das hier ist auf Github geschrieben
